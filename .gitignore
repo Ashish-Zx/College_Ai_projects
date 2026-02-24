@@ -1,0 +1,12 @@
+# Ignore large image datasets
+**/train/
+**/val/
+
+# Explicit path in this project
+drive-download-20260223T145857Z-1-001/data/train/
+drive-download-20260223T145857Z-1-001/data/val/
+
+# Ignore large binary files
+*.zip
+*.pth
+*.pt
